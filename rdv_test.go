@@ -16,3 +16,4 @@ func TestEmpty(t *testing.T) {
 	r.Lookup("hello")
 
 }
+
